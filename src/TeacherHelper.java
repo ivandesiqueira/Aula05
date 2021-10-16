@@ -58,7 +58,7 @@ public class TeacherHelper {
 					i++;
 				}
 				mediaAlunos = mediaAlunos / qtdeAlunos;
-				System.out.println("A média de notas dos alunos dessa turma é " + mediaAlunos);
+				System.out.println("A média de notas dos alunos dessa turma é de " + mediaAlunos + " pontos");
 
 				break;
 			case 3:
